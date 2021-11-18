@@ -1,2 +1,2 @@
 # demo0
-test project
+test project for Friday
